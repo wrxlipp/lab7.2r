@@ -1,0 +1,25 @@
+﻿  lab7.2r.cpp
+C:\Users\DELL\source\repos\Lab7.2r\Lab7.2r\lab7.2r.cpp(109,13): error C2660: 'FindMaxAbove': function does not take 4 arguments
+      C:\Users\DELL\source\repos\Lab7.2r\Lab7.2r\lab7.2r.cpp(101,6):
+      see declaration of 'FindMaxAbove'
+      C:\Users\DELL\source\repos\Lab7.2r\Lab7.2r\lab7.2r.cpp(109,13):
+      while trying to match the argument list '(int **, const int, int, int)'
+  
+C:\Users\DELL\source\repos\Lab7.2r\Lab7.2r\lab7.2r.cpp(112,13): error C2660: 'FindMaxAbove': function does not take 4 arguments
+      C:\Users\DELL\source\repos\Lab7.2r\Lab7.2r\lab7.2r.cpp(101,6):
+      see declaration of 'FindMaxAbove'
+      C:\Users\DELL\source\repos\Lab7.2r\Lab7.2r\lab7.2r.cpp(112,13):
+      while trying to match the argument list '(int **, const int, int, int)'
+  
+C:\Users\DELL\source\repos\Lab7.2r\Lab7.2r\lab7.2r.cpp(126,13): error C2660: 'FindMinBelow': function does not take 4 arguments
+      C:\Users\DELL\source\repos\Lab7.2r\Lab7.2r\lab7.2r.cpp(118,6):
+      see declaration of 'FindMinBelow'
+      C:\Users\DELL\source\repos\Lab7.2r\Lab7.2r\lab7.2r.cpp(126,13):
+      while trying to match the argument list '(int **, const int, int, int)'
+  
+C:\Users\DELL\source\repos\Lab7.2r\Lab7.2r\lab7.2r.cpp(129,13): error C2660: 'FindMinBelow': function does not take 4 arguments
+      C:\Users\DELL\source\repos\Lab7.2r\Lab7.2r\lab7.2r.cpp(118,6):
+      see declaration of 'FindMinBelow'
+      C:\Users\DELL\source\repos\Lab7.2r\Lab7.2r\lab7.2r.cpp(129,13):
+      while trying to match the argument list '(int **, const int, int, int)'
+  
